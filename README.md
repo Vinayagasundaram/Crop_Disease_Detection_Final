@@ -1,7 +1,7 @@
 # 🌿 Plant Disease Detection
 
 ## 📖 Overview
-This project identifies plant leaf diseases using a Convolutional Neural Network (CNN) trained on the "New Plant Diseases Dataset (Augmented)".
+This project identifies plant leaf diseases using a Convolutional Neural Network (CNN) trained on the "Plant Village Disease Classification".
 
 ## 🧠 Features
 - 38-class classification model
